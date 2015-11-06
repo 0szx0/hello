@@ -1,13 +1,11 @@
 {
-
-¡°name¡±: ¡°vender-name/package-name¡±,
-
-¡°type¡±: ¡°library¡±,
-
-¡°homepage¡±: ¡°http://your-domain¡±,
-
-¡°description¡±: ¡°This is test package.¡±,
-
-¡°license¡±: ¡°If you have.¡±
-
+	"name": "szxfirst2/test",
+	"description": "A package which have a test",
+	"license": "MIT",
+	"authors": [{
+		"name": "szx",
+		"email": "502607696@qq.com"
+	}],
+	"minimum-stability": "dev",
+	"require": {}
 }
