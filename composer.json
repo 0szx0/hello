@@ -1,0 +1,13 @@
+{
+
+¡°name¡±: ¡°vender-name/package-name¡±,
+
+¡°type¡±: ¡°library¡±,
+
+¡°homepage¡±: ¡°http://your-domain¡±,
+
+¡°description¡±: ¡°This is test package.¡±,
+
+¡°license¡±: ¡°If you have.¡±
+
+}
